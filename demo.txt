@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tervehdys paikalliselta koneelta!
+=======
+Tervehdys Githubista!
+>>>>>>> 038cac094a4bec46a168a611211daefd4f9afc17
